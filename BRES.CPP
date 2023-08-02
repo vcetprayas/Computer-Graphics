@@ -6,7 +6,7 @@ void bsline(int x,int y,int x2,int y2)
 {
 int dx,dy,p;
 dx=x2-x;
-dy=y2-x);
+dy=(y2-y);
 p=2*(dy)-(dx);
 while(x<=x2)
 {
